@@ -23,7 +23,7 @@ Passionné par l’informatique et les nouvelles technologies depuis toujours, j
 - **2024** : **OpenClassRoom**  
     **Bordeaux, France**
 	- *Montage et intégration de PC dans un réseau local* 
-	- *Installation et configuration de réseaux (Plan d'adressage, installation de serveur Windows, Linux avec services DNS, DHCP, ADDS .)* 
+	- *Installation et configuration de réseaux (Plan d'adressage, installation de serveur Windows, Linux avec services DNS, DHCP.)* 
 	- *Création et déploiement de Masters via services WDS, MDT*
 	- *Mise en place de serveur GLPI et gestion de tickets sous respect de la méthodologie ITIL*
 	- *Gestion des ressources de l'entreprise via l'AD (AGDLP, GPO, PSO*
