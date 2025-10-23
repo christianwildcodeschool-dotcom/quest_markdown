@@ -10,13 +10,11 @@ Passionné par l’informatique et les nouvelles technologies depuis toujours, j
 ## Formation
 
 - **2025 - 2026** : **Wild Code School**  
-    [RNCP37682 - Niveau 5 (Bac +2)](https://www.francecompetences.fr/recherche/rncp/37682/)
-  
+    [RNCP37682 - Niveau 5 (Bac +2)](https://www.francecompetences.fr/recherche/rncp/37682/)  
     *Technicien Supérieur Systèmes & Réseaux*
     
 - **2023 - 2024** : **OpenClassRoom**  
-    [RNCP36716 - Niveau 5 (Bac +2)](https://www.francecompetences.fr/recherche/rncp/36716/)
-  
+    [RNCP36716 - Niveau 5 (Bac +2)](https://www.francecompetences.fr/recherche/rncp/36716/)  
 	*Technicien informatique en installation, maintenance et support*
 
 
