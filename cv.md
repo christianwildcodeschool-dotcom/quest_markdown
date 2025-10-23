@@ -26,7 +26,7 @@ Passionné par l’informatique et les nouvelles technologies depuis toujours, j
 	- *Installation et configuration réseaux (Plan d'adressage, installation de serveur Windows, Linux, avec services DNS, DHCP, ADDS...)* 
 	- *Création et déploiement de Masters via services WDS, MDT*
 	- *Mise en place de serveur GLPI et gestion de tickets sous respect de la méthodologie ITIL*
-	- *Gestion des ressources de l'entreprise via l'AD (AGDLP, GPO, PSO) *
+	- *Gestion des ressources de l'entreprise via l'AD (AGDLP, GPO, PSO)*
 
 ## Hobbies
 
